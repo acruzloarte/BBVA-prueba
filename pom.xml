@@ -8,11 +8,11 @@
         <version>2.5.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.gian</groupId>
+    <groupId>com.bbva</groupId>
     <artifactId>postulanteuni</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>tgestiona</name>
-    <description>Tgestiona Project</description>
+    <name>postulante</name>
+    <description>postulanteuni</description>
     <properties>
         <java.version>11</java.version>
         <swagger.version>2.9.2</swagger.version>
